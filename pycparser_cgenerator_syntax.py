@@ -12,7 +12,7 @@
 def add(a, b):
     return a + b
 ```
-这个输出表示原始C语言代码中的函数已被成功解析并转换为Python代码。
+这个输出表示原始 C语言代码中的函数已被成功解析并转换为 Python代码。
 """
 
 import pycparser
